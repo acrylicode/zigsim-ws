@@ -8,6 +8,10 @@
   },
   "author": "Acrylicode",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acrylicode/zigsim-ws.git"
+  },
   "dependencies": {
     "ws": "^7.5.0"
   }
