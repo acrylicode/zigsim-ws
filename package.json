@@ -1,0 +1,14 @@
+{
+  "name": "zigsim-ws",
+  "version": "1.0.0",
+  "description": "Packate to easily connect your ZIG SIM App with any application through websocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Acrylicode",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^7.5.0"
+  }
+}
