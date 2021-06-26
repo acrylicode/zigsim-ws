@@ -55,7 +55,7 @@ First time usage:
 - Step 5: Type `npm i zigsim-ws`
 - Step 6: Type (copy-paste it on your terminal) 
 ``` 
-echo "const zigsimWs = require("zigsim-ws")\n
+echo "const zigsimWs = require('zigsim-ws');
 zigsimWs.init()" > index.js 
 ```
 This will create an index.js with the needed code to setup everything
